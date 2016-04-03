@@ -1,0 +1,2 @@
+# WordGameAssistant
+Software design homework
